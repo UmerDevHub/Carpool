@@ -72,3 +72,15 @@ MAPS_API_KEY=your_actual_google_maps_api_key_here
 
 - The Google Maps API key is **NOT included** in this repo for security reasons.
 - Please create `android/local.properties` with your own API key as shown above.
+
+
+
+<img src="screenshots/booking_details.jpeg" alt="Booking Details" width="300"/>
+<img src="screenshots/driver_dashboard.jpeg" alt="Driver Dashboard" width="300"/>
+<img src="screenshots/location_picker.jpeg" alt="Location Picker" width="300"/>
+<img src="screenshots/offer_ride.jpeg" alt="Offer Ride" width="300"/>
+<img src="screenshots/passenger_dashboard.jpeg" alt="Passenger Dashboard" width="300"/>
+<img src="screenshots/ride_details.jpeg" alt="Ride Details" width="300"/>
+<img src="screenshots/search_rides.jpeg" alt="Search Rides" width="300"/>
+<img src="screenshots/signin.jpeg" alt="Sign In" width="300"/>
+<img src="screenshots/signup.jpeg" alt="Sign Up" width="300"/>
