@@ -75,12 +75,13 @@ MAPS_API_KEY=your_actual_google_maps_api_key_here
 
 
 
-<img src="screenshots/booking_details.jpeg" alt="Booking Details" width="300"/>
-<img src="screenshots/driver_dashboard.jpeg" alt="Driver Dashboard" width="300"/>
-<img src="screenshots/location_picker.jpeg" alt="Location Picker" width="300"/>
-<img src="screenshots/offer_ride.jpeg" alt="Offer Ride" width="300"/>
-<img src="screenshots/passenger_dashboard.jpeg" alt="Passenger Dashboard" width="300"/>
-<img src="screenshots/ride_details.jpeg" alt="Ride Details" width="300"/>
-<img src="screenshots/search_rides.jpeg" alt="Search Rides" width="300"/>
-<img src="screenshots/signin.jpeg" alt="Sign In" width="300"/>
-<img src="screenshots/signup.jpeg" alt="Sign Up" width="300"/>
+<img src="screenshots/booking_details.jpeg" alt="Booking Details" style="width:300px"/>
+<img src="screenshots/driver_dashboard.jpeg" alt="Driver Dashboard" style="width:300px"/>
+<img src="screenshots/location_picker.jpeg" alt="Location Picker" style="width:300px"/>
+<img src="screenshots/offer_ride.jpeg" alt="Offer Ride" style="width:300px"/>
+<img src="screenshots/passenger_dashboard.jpeg" alt="Passenger Dashboard" style="width:300px"/>
+<img src="screenshots/ride_details.jpeg" alt="Ride Details" style="width:300px"/>
+<img src="screenshots/search_rides.jpeg" alt="Search Rides" style="width:300px"/>
+<img src="screenshots/signin.jpeg" alt="Sign In" style="width:300px"/>
+<img src="screenshots/signup.jpeg" alt="Sign Up" style="width:300px"/>
+
