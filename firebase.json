@@ -1,0 +1,29 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "mycarpoolfinal-4119890",
+          "appId": "1:182691805402:android:d575cdc1ae6be846220de3",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "mycarpoolfinal-4119890",
+          "configurations": {
+            "android": "1:182691805402:android:d575cdc1ae6be846220de3",
+            "web": "1:182691805402:web:3b8587a5b302f4c3220de3",
+            "windows": "1:182691805402:web:6359ee2ef6c03409220de3"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "nam5",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
