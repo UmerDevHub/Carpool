@@ -37,6 +37,37 @@ MAPS_API_KEY=your_actual_google_maps_api_key_here
 5. Connect an Android device or emulator
 6. Run the app
 
+
+## Screenshots
+
+### Booking Details
+![Booking Details](screenshots/booking_details.jpeg)
+
+### Driver Dashboard
+![Driver Dashboard](screenshots/driver_dashboard.jpeg)
+
+### Location Picker
+![Location Picker](screenshots/location_picker.jpeg)
+
+### Offer Ride
+![Offer Ride](screenshots/offer_ride.jpeg)
+
+### Passenger Dashboard
+![Passenger Dashboard](screenshots/passenger_dashboard.jpeg)
+
+### Ride Details
+![Ride Details](screenshots/ride_details.jpeg)
+
+### Search Rides
+![Search Rides](screenshots/search_rides.jpeg)
+
+### Sign In
+![Sign In](screenshots/signin.jpeg)
+
+### Sign Up
+![Sign Up](screenshots/signup.jpeg)
+
+
 ## Important
 
 - The Google Maps API key is **NOT included** in this repo for security reasons.
