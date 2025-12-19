@@ -41,4 +41,3 @@ MAPS_API_KEY=your_actual_google_maps_api_key_here
 
 - The Google Maps API key is **NOT included** in this repo for security reasons.
 - Please create `android/local.properties` with your own API key as shown above.
-- Make sure `local.properties` is ignored by Git and not pushed to GitHub.  
