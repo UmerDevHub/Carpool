@@ -37,51 +37,19 @@ MAPS_API_KEY=your_actual_google_maps_api_key_here
 5. Connect an Android device or emulator
 6. Run the app
 
-
 ## Screenshots
 
-### Booking Details
-![Booking Details](screenshots/booking_details.jpeg)
-
-### Driver Dashboard
-![Driver Dashboard](screenshots/driver_dashboard.jpeg)
-
-### Location Picker
-![Location Picker](screenshots/location_picker.jpeg)
-
-### Offer Ride
-![Offer Ride](screenshots/offer_ride.jpeg)
-
-### Passenger Dashboard
-![Passenger Dashboard](screenshots/passenger_dashboard.jpeg)
-
-### Ride Details
-![Ride Details](screenshots/ride_details.jpeg)
-
-### Search Rides
-![Search Rides](screenshots/search_rides.jpeg)
-
-### Sign In
-![Sign In](screenshots/signin.jpeg)
-
-### Sign Up
-![Sign Up](screenshots/signup.jpeg)
-
+<img src="screenshots/booking_details.jpeg" alt="Booking Details" style="max-width:300px; height:auto;" />
+<img src="screenshots/driver_dashboard.jpeg" alt="Driver Dashboard" style="max-width:300px; height:auto;" />
+<img src="screenshots/location_picker.jpeg" alt="Location Picker" style="max-width:300px; height:auto;" />
+<img src="screenshots/offer_ride.jpeg" alt="Offer Ride" style="max-width:300px; height:auto;" />
+<img src="screenshots/passenger_dashboard.jpeg" alt="Passenger Dashboard" style="max-width:300px; height:auto;" />
+<img src="screenshots/ride_details.jpeg" alt="Ride Details" style="max-width:300px; height:auto;" />
+<img src="screenshots/search_rides.jpeg" alt="Search Rides" style="max-width:300px; height:auto;" />
+<img src="screenshots/signin.jpeg" alt="Sign In" style="max-width:300px; height:auto;" />
+<img src="screenshots/signup.jpeg" alt="Sign Up" style="max-width:300px; height:auto;" />
 
 ## Important
 
 - The Google Maps API key is **NOT included** in this repo for security reasons.
 - Please create `android/local.properties` with your own API key as shown above.
-
-
-
-<img src="screenshots/booking_details.jpeg" alt="Booking Details" style="width:300px"/>
-<img src="screenshots/driver_dashboard.jpeg" alt="Driver Dashboard" style="width:300px"/>
-<img src="screenshots/location_picker.jpeg" alt="Location Picker" style="width:300px"/>
-<img src="screenshots/offer_ride.jpeg" alt="Offer Ride" style="width:300px"/>
-<img src="screenshots/passenger_dashboard.jpeg" alt="Passenger Dashboard" style="width:300px"/>
-<img src="screenshots/ride_details.jpeg" alt="Ride Details" style="width:300px"/>
-<img src="screenshots/search_rides.jpeg" alt="Search Rides" style="width:300px"/>
-<img src="screenshots/signin.jpeg" alt="Sign In" style="width:300px"/>
-<img src="screenshots/signup.jpeg" alt="Sign Up" style="width:300px"/>
-
